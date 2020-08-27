@@ -32,10 +32,10 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastaroscky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://www.linkedin.com/in/lucas-staroscky/" align="middle">
-<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/linkedin-icon.png" align="right" width="24px" heigh="24px" />LinkedIn
+<a href="https://www.linkedin.com/in/lucas-staroscky/">
+<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/linkedin-icon.png" align="left" width="24px" heigh="24px" />LinkedIn
 </a>
 
-<a href="https://www.instagram.com/lucastaroscky"align="middle">
-<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="right" width="24px" heigh="24px" />Instagram
+<a href="https://www.instagram.com/lucastaroscky">
+<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="left" width="24px" heigh="24px" />Instagram
 </a>
