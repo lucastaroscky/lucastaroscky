@@ -25,18 +25,6 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 - <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/github-icon.png" width="24px" heigth="24px" /> GitHub
 
 
-
-
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucastaroscky&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastaroscky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ## :mailbox: Contact me 
 
 
@@ -47,3 +35,15 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 <a href="https://www.instagram.com/lucastaroscky">
 <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="left" width="24px" heigh="24px" />
 </a>
+
+
+- **Funfact**: I love to cook! 🍳
+
+
+
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucastaroscky&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastaroscky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
