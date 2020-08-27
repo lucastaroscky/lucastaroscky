@@ -37,7 +37,11 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 </a>
 
 
-- **Funfact**: I love to cook! 🍳
+
+
+#### Funfact
+
+I love to cook! 🍳
 
 
 
