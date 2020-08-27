@@ -34,7 +34,7 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 
 <a href="https://www.instagram.com/lucastaroscky">
 <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="left" width="24px" heigh="24px" />
-</a>
+</a><br>
 
 
 
