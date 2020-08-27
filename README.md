@@ -33,9 +33,9 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 
 
 <a href="https://www.linkedin.com/in/lucas-staroscky/" align="middle">
-<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/linkedin-icon.png" align="middle" width="24px" heigh="24px" />LinkedIn
+<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/linkedin-icon.png" align="right" width="24px" heigh="24px" />LinkedIn
 </a>
 
 <a href="https://www.instagram.com/lucastaroscky"align="middle">
-<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="middle" width="24px" heigh="24px" />Instagram
+<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="right" width="24px" heigh="24px" />Instagram
 </a>
