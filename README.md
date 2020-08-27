@@ -4,7 +4,10 @@
 My name is Lucas and I'm a **Front-End Developer**, training to be a full-stack developer.
 
 Currently, I study software development at [Trybe](https://www.betrybe.com/), where the training process is focused on developing technical and behavioral skills, covering everything from coding to communication, receiving and giving feedback.
+
+- **Funfact**: I love to cook! 🍳
 <br>
+
 
 ## :newspaper: Latest Articles
 
@@ -38,7 +41,6 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 </a><br><br><br>
 
 
-- **Funfact**: I love to cook! 🍳
 <br>
 
 
