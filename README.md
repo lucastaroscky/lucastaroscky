@@ -15,7 +15,7 @@ Currently, I study software development at [Trybe](https://www.betrybe.com/), wh
 ## :computer: Languages and Tools
 
 
-- <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/react-icon.jpg" width="24px" heigth="24px" /> React 
+- <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/react-icon.png" width="24px" heigth="24px" /> React 
 - <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/redux-icon.png" width="24px" heigth="24px" /> Redux
 - <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/js-icon.png" width="24px" heigth="24px" /> Javascript
 - <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/html-icon.png" width="24px" heigth="24px" /> HTML
