@@ -2,7 +2,7 @@
 
 My name is Lucas and I'm a Full-stack developer.
 
-I'm working as a Junior Data Engineer at Itaú and currently I study software development at [Trybe](https://www.betrybe.com/).
+Actually, I'm working as a Junior Data Engineer at <b>Itaú Unibanco</b> and currently I study software development at [Trybe](https://www.betrybe.com/).
 
 ## :newspaper: Latest Articles
 
@@ -17,7 +17,8 @@ I'm working as a Junior Data Engineer at Itaú and currently I study software de
 <a href="https://www.instagram.com/lucastaroscky">
 <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="left" width="24px" heigh="24px" />
 </a>
-<br>
+
+<br><br>
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucastaroscky&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
