@@ -1,12 +1,7 @@
 ## Hello everyone! :wave:
 
-My name is Lucas and I'm a Full-stack developer.
+My name is Lucas and I'm a Junior Full-stack developer.
 
-Actually, I'm working as a Junior Data Engineer at <b>Itaú Unibanco</b> and currently I study software development at [Trybe](https://www.betrybe.com/).
-
-## :newspaper: Latest Articles
-
-- [Medium](https://medium.com/@lucasstaroscky/o-impacto-do-autoconhecimento-no-desenvolvimento-de-soft-skills-26a1e32544ba)
 
 ## :mailbox: Contact me 
 
