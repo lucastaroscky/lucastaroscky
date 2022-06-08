@@ -1,14 +1,10 @@
-## Hello everyone!
+## Hi!
 
- Full-stack developer (React, Node & Typescript).
+I'm a Full-stack developer (React, Node & Typescript).
 
 ## :mailbox: Contact me 
 
-<a href="https://www.linkedin.com/in/lucas-staroscky/">
-<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/linkedin-icon.png"  align="left" width="24px" heigh="24px" />
-</a>
-
-<br><br>
+[![Linkedin](https://i0.wp.com/futurebehind.com/wp-content/uploads/2016/06/linkedin-logo-reduzido.png?resize=50%2C50)](https://www.linkedin.com/in/lucas-staroscky/)
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucastaroscky&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
