@@ -1,16 +1,11 @@
-## Hello everyone! :wave:
+## Hello everyone!
 
-My name is Lucas and I'm a Junior Full-stack developer.
-
+ Full-stack developer (React, Node & Typescript).
 
 ## :mailbox: Contact me 
 
 <a href="https://www.linkedin.com/in/lucas-staroscky/">
 <img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/linkedin-icon.png"  align="left" width="24px" heigh="24px" />
-</a>
-
-<a href="https://www.instagram.com/lucastaroscky">
-<img src="https://github.com/lucastaroscky/lucastaroscky/blob/master/assets/instagram-icon.png" align="left" width="24px" heigh="24px" />
 </a>
 
 <br><br>
